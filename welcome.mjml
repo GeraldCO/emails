@@ -1,0 +1,78 @@
+<mjml>
+
+  <mj-head>
+    <mj-font name="FontAwesome" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
+  </mj-head>
+
+  <mj-body>
+    <mj-raw>
+      <!-- Company Header -->
+    </mj-raw>
+    <mj-section background-color="Black">
+      <mj-column height="2px">
+        <mj-text align='center' font-weight="bold" font-family="Roboto Slab" font-size="20px" color="white">
+          <spam>35 MEALS ON THE MENU</spam>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Image Header -->
+    </mj-raw>
+    <mj-section background-url="http://1.bp.blogspot.com/-TPrfhxbYpDY/Uh3Refzk02I/AAAAAAAALw8/5sUJ0UUGYuw/s1600/New+York+in+The+1960's+-+70's+(2).jpg" background-size="cover" background-repeat="no-repeat">
+      <mj-column width="600px">
+        <mj-image src="https://www.flexpromeals.com/wp-content/themes/flexpro/images/logo.png" width="150px" align="left"></mj-image>
+        <mj-text align="center" color="#black" font-size="25px" font-family="Helvetica Neue" >Hey, sorry we missed you earlier!</mj-text>
+        <mj-text align="center" color="#black" font-size="18px" font-family="Helvetica Neue" >We have new meals available</mj-text>
+        <!-- <mj-button background-color="#F63A4D" href="#">Promotion</mj-button> -->
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Intro text -->
+    </mj-raw>
+    <mj-section background-color="#F9F8F7" border="dashed #9CC318">
+      <mj-column width="550px">
+        <mj-text font-weight="bold" font-style="italic"  font-family="Helvetica Neue" color="#626262">
+          <spam style="font-size:150px">  20 </spam> <spam style=" font-size:75px">% OFF</spam>
+        </mj-text>
+        <mj-text align="center" font-weight="bold" font-style="italic" font-family="Helvetica Neue" color="#626262" font-size="20px">Your entire first order!</mj-text>        
+        <mj-button font-family="Helvetica Neue" background-color="#4A6E17" font-weight="bold" font-size="18px" 
+            href="sms:+18664504185?&body=PROMO">Text us to get the promo code</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Side image -->
+    </mj-raw>
+    <mj-section background-color="white">
+      <mj-raw>
+        <!-- Left image -->
+      </mj-raw>
+      <mj-column>
+        <mj-image width="300px" src="https://www.flexpromeals.com/wp-content/themes/flexpro/images/contact-img.jpg"></mj-image>
+      </mj-column>
+      <mj-raw>
+        <!-- right paragraph -->
+      </mj-raw>
+      <mj-column>
+        <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262">Do you need assistance?</mj-text>
+        <mj-text color="#525252" font-size="18px" font-style="italic" font-family="Helvetica Neue">
+            <a href="tel:8168883539">Give us a call</a>
+            </mj-text>
+        <mj-text font-size="18px" font-style="italic" font-family="Helvetica Neue">We have everything you need for your meal plan</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Icons -->
+    </mj-raw>
+    <mj-section background-color="#4A6E18">
+      <mj-column>
+            <mj-text font-size="80px" color="white" font-family="FontAwesome"> <a href="#" style="color:white; text-decoration: none;"> &#xf09a; </a> </mj-text>      
+      </mj-column>
+      <mj-column>
+        <mj-text font-size="80px" color="white" font-family="FontAwesome"> <a href="#" style="color:white; text-decoration: none;"> &#xf099; </a> </mj-text>      
+      </mj-column>
+      <mj-column>
+        <mj-text font-size="80px" color="white" font-family="FontAwesome"> <a href="#" style="color:white; text-decoration: none;"> &#xf16d; </a> </mj-text>      
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
